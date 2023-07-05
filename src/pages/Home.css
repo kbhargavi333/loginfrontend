@@ -1,0 +1,132 @@
+.header {
+    background-color: peachpuff;
+    padding: 25px;
+    text-align: center;
+    border: 1px solid peachpuff;
+    border-radius: 25px;
+    }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around; 
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: #000;
+  }
+  .intro{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 5%;
+    font-size: 25px;
+  }
+  
+  .content {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .title{
+    font: 10px;
+  }
+  h3{
+    margin-left: 15%;
+    margin-top: 7%;
+    font-family: cursive;
+    }
+
+    h2{
+      text-align: center;
+      font-family: Gabriola;
+      font-size: 37px;
+      position: sticky;
+    
+    }
+
+    .container{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 98%;
+      background-color: #f5f5f5;
+      padding: 3px;
+      z-index: 1000; 
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      background-color: peachpuff;
+      border-radius: 20px;
+      box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2);
+      margin-left: 0.5%;
+    
+    
+    }
+    .container a{
+      padding-right: 50px;
+      color: black;
+      text-decoration: none;
+      font-size: 15px;
+    
+    }
+    .ptag{
+      text-align: justify;
+      margin-left: 5%;
+      width: 40%;
+    }
+    #img{
+      align-self: flex-end;
+      margin-left: 60%;
+      margin-right: 3%;
+      margin-top: -17%;
+      width: 550px;
+    }
+    .container a:hover{
+      font-size: 18px;
+      /* border: 1px ;
+      box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.2);
+      border-radius: 18px;
+      background-color: silver; */
+      /* padding-left: 40px;
+      padding-top: 5px;
+      padding-right: -20px;
+      padding-bottom: 5px; */
+    
+    }
+    .footer {
+      background-color:peachpuff;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer a{
+      padding-right: 2%;
+      text-decoration: none;
+      font-size: 26px;
+      margin-left: 2%;
+    }
+    .footer a:hover{
+      font-size: 36px;
+    }
+    .footer-line {
+      border: none;
+      height: 1.5px;
+      background-color: white;
+      margin: 10px 0;
+    }
+    .footerhead{
+      margin-top: -1%;
+    }
+    .footer{
+      margin-top: 4%;
+    }
+  

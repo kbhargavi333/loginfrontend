@@ -1,0 +1,35 @@
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .user {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .name,
+  .username,
+  .usermail {
+    margin-bottom: 5px;
+  }
+  
+  .name h3,
+  .username h3,
+  .usermail h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+  
+  .deltebtn button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
