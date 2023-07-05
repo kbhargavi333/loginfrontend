@@ -41,20 +41,20 @@ export default function Home() {
                     <p class="ptag">Memories preserved in a home video on VHS are at the mercy of how well the technology holds up. VHS tapes can get damaged and discolored over 
                     time if exposed to heat, moisture, or if broken. VCR players are not as widely available as they once were. Even DVDs are being phased out. Transferring these memories 
                     in to digital lives longer.</p>
-                    <img id='img' src='https://cdn-bcfmk.nitrocdn.com/fYEZdJKjvuXkKgFpeJrbqdViLvHKUQUB/assets/images/optimized/rev-b721f14/wp-content/uploads/2022/05/03-events-2048x1365.jpeg'/>
+                    <img id='img' src='https://amendo.com/wp-content/uploads/2021/10/bigstock-African-Family-Watching-Tv-Mov-417110977.jpg'/>
       </div>
       <h3>Keep your find memories close</h3>
       <div className='container1'>
                     <p class="ptag">When you leave a place, and no longer have the daily reminders of the people from that environment, memories begin to fade. It’s just how our brains work 
                     to keep us focused on the present day’s immediate needs. Sometimes we have to leave a place, or a group of cherished friends, and we wish we could take them with us.
                      Preserving those memories helps us do just that. .</p>
-                    <img id='img' src='https://cdn-bcfmk.nitrocdn.com/fYEZdJKjvuXkKgFpeJrbqdViLvHKUQUB/assets/images/optimized/rev-b721f14/wp-content/uploads/2022/05/07-record-2048x1365.jpeg'/>
+                    <img id='img' src='https://previews.123rf.com/images/derausdo/derausdo0702/derausdo070200006/738432-vintage-handwriting-from-old-letter.jpg'/>
       </div>
       <h3>Echoes of yesterday </h3>
       <div className='container1'>
                     <p class="ptag">Important memories are created at events like birthdays, anniversaries, weddings, and graduations. Memories preserved in the form of photos, video or through 
                     another medium can also be shared during these events, too. What better time than when friends and family are all together?.</p>
-                    <img id='img' src='https://cdn-bcfmk.nitrocdn.com/fYEZdJKjvuXkKgFpeJrbqdViLvHKUQUB/assets/images/optimized/rev-b721f14/wp-content/uploads/2022/05/09-stories-2048x1365.jpeg'/>
+                    <img id='img' src='https://cdn.firstcry.com/education/2022/09/21150110/Activities-With-Family-Photo-Albums.jpg'/>
       </div>
       <h3>Make your life project</h3>
       <div className='container1'>
